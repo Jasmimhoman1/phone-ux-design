@@ -1,1 +1,1 @@
-# phone-ux-design
+This repository is for all the UX design for android/ IOS phone devices.
